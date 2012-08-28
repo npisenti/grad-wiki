@@ -1,1 +1,0 @@
-* Radiative vs. power vs. doppler broadening?
