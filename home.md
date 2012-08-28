@@ -9,3 +9,5 @@ Neal's Research Homepage!
 ## Projects
 
 asdf
+
+\[ x^2 + 2 \]
