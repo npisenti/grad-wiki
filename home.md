@@ -2,7 +2,8 @@ Neal's Research Homepage!
 
 ## Topics...
 
-* [Questions](Questions/questions)
+* [Current Questions](questions/current)
+* [Answered Questions](questions/answered)
 
 
 ## Projects
