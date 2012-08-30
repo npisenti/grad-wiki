@@ -8,6 +8,9 @@ Neal's Research Homepage!
 
 ## Projects
 
-asdf
+Coming soon...
 
-\[ x^2 + 2 \]
+## Classes
+
+* [Theoretical Mechanics](theo-mech)
+* [Quantum Mechanics](quantum)
