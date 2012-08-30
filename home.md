@@ -15,8 +15,3 @@ Coming soon...
 * [Theoretical Mechanics](classical-mechanics)
 * [Quantum Mechanics](quantum-mechanics)
 * [Math Methods](math-methods)
-
-
-## pictures...
-
-[[img/test-pic.jpeg]]
