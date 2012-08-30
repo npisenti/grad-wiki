@@ -30,4 +30,3 @@ and
 
 \[ \frac{\partial u}{\partial y} = - \frac{\partial v}{\partial x}  \]
 
-### new heading...
