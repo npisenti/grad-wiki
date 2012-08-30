@@ -10,4 +10,4 @@
 
 **Stoke's Theorem** states that the curl of a vector field \( \vec A \) integrated over some surface \( S \) is equivalent to the path-integral of \( \vec A \) around the edge bounding the surface \( S \). That is, 
 
-\[ \int_{mathbf S} \left( \vec \nabla \times \vec A \right) \cdot \vec{ds} = \int_{\mathbf C} \vec A \cdot \vec{dl} \]
+\[ \int_{mathbf S} \left( \vec \nabla \times \vec A \right) \cdot \vec{ds} = \oint_{\mathbf C} \vec A \cdot \vec{dl} \]
