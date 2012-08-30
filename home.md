@@ -12,5 +12,5 @@ Coming soon...
 
 ## Classes
 
-* [Theoretical Mechanics](theo-mech)
-* [Quantum Mechanics](quantum)
+* [Theoretical Mechanics](classical-mechanics)
+* [Quantum Mechanics](quantum-mechanics)
