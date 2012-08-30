@@ -24,4 +24,4 @@ Note, however, that the functions \( u(x,y) \) and \( v(x,y) \) are related by t
 
 The **Cauchy-Riemann equations** relating \( u(x,y) \) and \( v(x,y) \) for analytic functions are
 
-\[ \frac{\partial u}{\partial x} &= \frac{\partial v}{\partial y} \\ \frac{\partial u}{\partial y} &= - \frac{\partial v}{\partial x}  \]
+\[ \frac{\partial u}{\partial x} = \frac{\partial v}{\partial y} \\ \frac{\partial u}{\partial y} = - \frac{\partial v}{\partial x}  \]
