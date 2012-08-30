@@ -16,6 +16,3 @@ Coming soon...
 * [Quantum Mechanics](quantum-mechanics)
 * [Math Methods](math-methods)
 
-asdf
-
-anothe rline
