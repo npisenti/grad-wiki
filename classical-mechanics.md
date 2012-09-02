@@ -11,4 +11,18 @@
 ## Calculus of variations
 
 First, some definitions. A **functional** is a map from a vector space to its underlying scalar field. Specifically here, it maps functions to the set of Reals.
+
+<table>
+  <tr>
+    <td>Functions</td><td>Functionals</td>
+  </tr>
+  <tr>
+    <td>\( f(x) \) maps numbers to numbers</td><td>\( S[q(t)] \) maps functions to numbers</td>
+  </tr>
+  <tr>
+    <td>Change of a function: \( x \rightarrow x + dx \); \( f(x) \rightarrow f(x + dx) \)</td><td>Change of a functional: \( q(t) \rightarrow q'(t) = q(t) + \delta q(t) \); \( S[q(t)] \rightarrow S[q(t) + \delta q(t)] \)</td>
+
+  </tr>
+</table>
+
 \( x + dx\)
