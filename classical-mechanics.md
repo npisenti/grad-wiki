@@ -25,4 +25,4 @@ First, some definitions. A **functional** is a map from a vector space to its un
   </tr>
 </table>
 
-\( x\\+dx\)
+\( x+dx\)
