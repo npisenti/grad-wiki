@@ -25,4 +25,6 @@ First, some definitions. A **functional** is a map from a vector space to its un
   </tr>
 </table>
 
-this + that
+By Hamilton's principle of least action, we want to minimize the action \( S = \int_{t_1}^{t_2} L(q, \dot q, t) dt \). Applying the calculus of variations to the action \( S \), we find
+
+\[ \delta S = \int_{t_1}^{t_2} dt \left[ L(q(t) + \delta q)t_, \dot q(t) + \delta \dot q(t), t) - L(q(t), \dot q(t), t) \right] \]
