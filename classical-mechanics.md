@@ -20,7 +20,7 @@ First, some definitions. A **functional** is a map from a vector space to its un
     <td>\( f(x) \) maps numbers to numbers</td><td>\( S[q(t)] \) maps functions to numbers</td>
   </tr>
   <tr>
-    <td>Change of a function: \( x \rightarrow x + dx \); \( f(x) \rightarrow f(x + dx) \)</td><td>Change of a functional: \( q(t) \rightarrow q'(t) = q(t) + \delta q(t) \); \( S[q(t)] \rightarrow S[q(t) + \delta q(t)] \)</td>
+    <td>Change of a function: \( x \rightarrow x \+ dx \); \( f(x) \rightarrow f(x \+ dx) \)</td><td>Change of a functional: \( q(t) \rightarrow q'(t) = q(t) \+ \delta q(t) \); \( S[q(t)] \rightarrow S[q(t) \+ \delta q(t)] \)</td>
 
   </tr>
 </table>
