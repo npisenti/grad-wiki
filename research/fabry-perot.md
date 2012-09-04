@@ -1,3 +1,3 @@
 # Fabry-Perot Cavities
 
-[[/img/research/FP-ray-diagram.png]]
+[[img/research/FP-ray-diagram.png]]
