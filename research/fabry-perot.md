@@ -1,3 +1,3 @@
 # Fabry-Perot Cavities
 
-this is a test
+[[/img/research/FP-ray-diagram.png]]
