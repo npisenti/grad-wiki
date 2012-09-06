@@ -7,3 +7,31 @@
     \[ S(t_1, t_2) = \int_{t_1}^{t_2} L(q, \dot q, t) dt \]
 
 **Hamilton's principle of least action** (sometimes called *Hamilton's principle* or the *principle of least action*, basically states that the behavior of a system is that which minimizes the action \( S(t_1, t_2) \). For example, we might ask a (general) question, "what path does some particle take between points \( q_1 \) and \( q_2 \)? The principle of least action tells us that the particle follows the path which minimizes \[ S = \int_{t_1}^{t_2} L(q, \dot q, t) dt \] for the appropriate Lagrangian \( L(q, \dot q, t) \).
+=======
+
+\[ S(t_1, t_2) = \int_{t_1}^{t_2} L(q, \dot q, t) dt \]
+
+**Hamilton's principle of least action** (sometimes called *Hamilton's principle* or the *principle of least action*, basically states that the behavior of a system is that which minimizes the action \( S(t_1, t_2) \). For example, we might ask a (general) question, "what path does some particle take between points \( q_1 \) and \( q_2 \)? The principle of least action tells us that the particle follows the path which minimizes \( S = \int_{t_1}^{t_2} L(q, \dot q t) dt \) for the appropriate Lagrangian \( L(q, \dot q, t) \).
+
+## Calculus of variations
+
+First, some definitions. A **functional** is a map from a vector space to its underlying scalar field. Specifically here, it maps functions to the set of Reals.
+
+<table>
+  <tr>
+    <td>Functions</td><td>Functionals</td>
+  </tr>
+  <tr>
+    <td>\( f(x) \) maps numbers to numbers</td><td>\( S[q(t)] \) maps functions to numbers</td>
+  </tr>
+  <tr>
+    <td>Change of a function: \( x \rightarrow x + dx \); \( f(x) \rightarrow f(x + dx) \)</td><td>Change of a functional: \( q(t) \rightarrow q'(t) = q(t) + \delta q(t) \); \( S[q(t)] \rightarrow S[q(t) + \delta q(t)] \)</td>
+
+  </tr>
+</table>
+
+By Hamilton's principle of least action, we want to minimize the action \( S = \int_{t_1}^{t_2} L(q, \dot q, t) dt \). Applying the calculus of variations to the action \( S \), we find
+
+\[ \delta S = \int_{t_1}^{t_2} dt \left[ L(q(t) + \delta q)t_, \dot q(t) + \delta \dot q(t), t) - L(q(t), \dot q(t), t) \right] \]
+
+\[ x+y \]
